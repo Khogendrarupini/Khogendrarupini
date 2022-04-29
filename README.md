@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Khogendrarupini
-- 👀 I’m interested in CODE JavaScript Java C++ Web Development Programmer👨‍💻
-- 🌱 I’m currently learning Json
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in CODE Skills Computer Programmer, Web Developer, C++, JavaScript, Java, app developer, 👨‍💻 SQL, Cyber Security, Database, Php, Css, Html, Ethical Hacking, Json, Python
 - 📫 How to reach me https://www.khogendrarupini.com
 
 <!---
