@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khogendrarupini
-- 👀 I’m interested in CODE Skills Computer Programmer, Web Developer, C++, JavaScript, Java, app developer, 👨‍💻 SQL, Cyber Security, Database, Php, Css, Html, Ethical Hacking, Json, Python
+- I teach programming on YouTube | Investor | Programmer | Blogger | YouTuber | Co-Founder Of Levoric | Web Developer | Skills - HTML, CSS, JAVASCRIPT, Python, React, Node.Js, Java
 - 📫 How to reach me https://www.khogendrarupini.com
 
 <!---
