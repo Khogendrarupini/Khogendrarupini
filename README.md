@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khogendrarupini
-- I teach programming on YouTube | Investor | Programmer | Blogger | YouTuber | Co-Founder Of Levoric | Web Developer | Skills - HTML, CSS, JAVASCRIPT, Python, React, Node.Js, Java
+- I teach programming on YouTube | Investor | Programmer | Blogger | YouTuber | Founder Of www.LevoricLearn.com | Web Developer | Skills - HTML, CSS, JAVASCRIPT, Python, React, Node.Js, Java
 - 📫 How to reach me https://www.khogendrarupini.com
 
 <!---
