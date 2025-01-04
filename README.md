@@ -16,8 +16,6 @@ His mission is to make learning and collaboration accessible to all while foster
 
 ### Visit My Website to Connect with Me for Web Development, Design, and JavaScript Solutions
 
-### Visit My Personal Website
-
 It is specifically created for those who want to build websites or need JavaScript solutions. You can contact me directly through my site!
 
 [![Personal Website Logo](https://khogendrarupini.com/image/apple-touch-icon.png)](https://khogendrarupini.com)
