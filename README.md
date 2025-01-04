@@ -14,7 +14,7 @@ His mission is to make learning and collaboration accessible to all while foster
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/khogendrarupini)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khogendrarupini.com)
 
-### Visit My Website to Connect with Me for Web Development, Design, and JavaScript Solutions
+### Connect with me for Web Design, JavaScript Solutions
 
 It is specifically created for those who want to build websites or need JavaScript solutions. You can contact me directly through my site!
 
