@@ -20,4 +20,4 @@ It is specifically created for those who want to build websites or need JavaScri
 
 [![Personal Website Logo](https://khogendrarupini.com/image/apple-touch-icon.png)](https://khogendrarupini.com)
 
-[![Contact Now](https://img.shields.io/badge/Contact%20Now-FF5722?style=for-the-badge&logo=maildotru&logoColor=white)](https://khogendrarupini.com/contact)
+[![Contact Now](https://img.shields.io/badge/Contact%20Now-FF5722?style=for-the-badge&logo=maildotru&logoColor=white)](https://khogendrarupini.com/)
