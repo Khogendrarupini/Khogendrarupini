@@ -4,7 +4,7 @@ I am **Khogendra Rupini**, the founder of [Levoric Learn](https://levoriclearn.c
 
 As a skilled web designer and front-end expert, I specialize in **HTML**, **CSS**, and **JavaScript**. With a strong understanding of backend technologies like **PHP**, **MySQL**, and database management, I serve as the lead developer and primary contributor to the platform.
 
-My mission is to make learning and collaboration accessible to all while fostering a vibrant community of learners and contributors. Driven by my passion for education and innovation, I continue to expand and improve Levoric Learn as a valuable resource for developers across the globe.
+My mission is to make learning and collaboration accessible to all while fostering a vibrant community of learners and contributors. Driven by my passion for education and innovation, I continue to expand and improve  [Levoric Learn](https://levoriclearn.com) as a valuable resource for developers across the globe.
 
 ### 🌐 Connect with me
 
