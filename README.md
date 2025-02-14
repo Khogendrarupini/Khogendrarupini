@@ -1,4 +1,5 @@
 ## 👋 About Me
+![KDR LOGO](https://khogendrarupini.com/image/khogendrarupini-3.jpg)
 
 I am **Khogendra Rupini**, the founder of [Levoric Learn](https://levoriclearn.com), an open-source educational platform I launched in December 2023. At just 18 years old, I have dedicated my career to empowering developers worldwide with high-quality tutorials, user-friendly tools, and accessible resources.
 
